@@ -19,5 +19,7 @@ function IsPC() {
     return flag;
 }
 if(IsPC()){
+    p2.innerText="这里是电脑啊!"
+}else{
     p2.innerText="这里是手机啊!"
 }
