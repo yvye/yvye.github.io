@@ -1,4 +1,0 @@
-brand@3x.aa6d1a02.png
-ele-icon.27c4baa3.svg
-
-#只有这两张 是ele的图 其他 都是win的
